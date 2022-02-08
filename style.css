@@ -10,11 +10,13 @@ body {
     text-align: center;
 }
 #grad1 {
+    z-index: -1;
     position: absolute;
     left: -5%;
     top: -40%;
 }
 #grad2 {
+    z-index: -1;
     position: absolute;
     right: -5%;
     bottom: -40%;
